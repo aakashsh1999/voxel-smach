@@ -1,0 +1,7 @@
+{
+  "name": "Voxel Smash Toy",
+  "description": "A 3D voxel toy where you can generate voxel art from images and break them into physics-based fragments that spill everywhere.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
